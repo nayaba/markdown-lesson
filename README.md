@@ -8,8 +8,9 @@ In this deliverable, we'll practice using one of the *easiest* and *simplest* la
 ## Objectives
   - Review and practice common markdown syntax
   - Create our own ReadMe template that we will use for the rest of the immersive
+    
 ## What You'll Be Building
-![End Product](https://i.imgur.com/Onbj3eC.png)
+ - [Solution - Rendered](solution.md)
 
 ## Getting Started
   - Navigate to your lectures directory and create a new directory called `intro-to-markdown`
@@ -115,7 +116,6 @@ We learned a lot about Markdown language, but there's so much more it can do inc
 
 
 ## Resources
- - [Solution - Rendered](solution.md)
  - [Solution - Raw Code](solution-code.md)
  - [Markdown Guide](https://ia.net/writer/support/general/markdown-guide)
  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
