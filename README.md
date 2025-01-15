@@ -115,7 +115,7 @@ We learned a lot about Markdown language, but there's so much more it can do inc
 
 
 ## Resources
- - [Solution README](solution.md)
- - [Solution Code](solution-code.md)
+ - [Solution - Rendered](solution.md)
+ - [Solution - Raw Code](solution-code.md)
  - [Markdown Guide](https://ia.net/writer/support/general/markdown-guide)
  - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
